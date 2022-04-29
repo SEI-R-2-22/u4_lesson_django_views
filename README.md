@@ -7,13 +7,6 @@
 
 This lesson will build off of the lesson on Django models and migrations and wrap up everything we need to build basic applications with Django. Today, we are going to look at how to actually display our data using views and templates!
 
-## Prerequisites
-
-- Python
-- SQL & PostgreSQL
-- Django Models & Migrations
-- Virtual environments
-
 ## Learning Objectives
 
 By the end of this, developers should be able to:
