@@ -886,7 +886,7 @@ A quick primer on what will be helpful for creating urls:
 - `+` - required
 - `()` - captures part of a pattern
 
-## Additional Resources
+## Resources
 
 - [Django Docs: Templates](https://docs.djangoproject.com/en/2.1/topics/templates/)
 - [Django Docs: The Django Templating Language](https://docs.djangoproject.com/en/2.1/ref/templates/language/)
