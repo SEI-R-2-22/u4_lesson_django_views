@@ -3,9 +3,9 @@
 
 ![Django](https://assets.website-files.com/5b6901669b93d7837e36dc4c/615e1104ffbf5ae592265cc7_python-django.png)
 
-This lesson will build off of the lesson on Django models and migrations and
-wrap up everything we need to build basic applications with Django. Today, we
-are going to look at how to actually display our data using views and templates!
+## Overview
+
+This lesson will build off of the lesson on Django models and migrations and wrap up everything we need to build basic applications with Django. Today, we are going to look at how to actually display our data using views and templates!
 
 ## Prerequisites
 
